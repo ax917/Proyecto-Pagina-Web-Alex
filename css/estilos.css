@@ -30,9 +30,9 @@ header{
     height: 600px;
     background: #bc4e9c;
       /* fallback for old browsers */
-    background: -webkit-linear-gradient (to right, hsla(350, 97%, 75%, 0.671), hsla(327, 100%, 55%, 0.685)), url(../img/portada.jpg);
+    background: -webkit-linear-gradient (to right, hsla(350, 97%, 75%, 0.671), hsla(327, 100%, 55%, 0.685)), url(../img/port1.jpg);
      /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(350, 97%, 75%, 0.671), hsla(327, 100%, 55%, 0.685)), url(../img/portada.jpg);
+    background: linear-gradient(to right, hsla(350, 97%, 75%, 0.671), hsla(327, 100%, 55%, 0.685)), url(../img/port1.jpg);
      /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
      background-size: cover;
      background-attachment: fixed;
